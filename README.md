@@ -26,6 +26,6 @@ This program offer user the ability to find a pattern in a text when the pattern
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Test-data
 ------------------------------------------------------------------------------------------------------------------------------------------------
-There are 5 types of test cases included in 10 files with text and its relavant pattern.Results are included in 5 different output files.
+There are 4 types of test cases included in 8 files with text and its relavant pattern.Results are included in 4 different output files.The empty patter/text can be use to test this program.
 
 ASSUMPTION - For concreteness, it is assumed that the text does not contain the “_”-symbol (the underscore).
